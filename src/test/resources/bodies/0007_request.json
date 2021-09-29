@@ -1,0 +1,30 @@
+{
+  "_id": "_local/XU_U2P5sPNLo0M4bb4oYcw==",
+  "_rev": "0-117",
+  "session_id": "a88269b7-9b94-4a5a-a804-21de3b2d26c2",
+  "history": [
+    {
+      "last_seq": "172-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTlyTCxRiNzUwMTBOTMWmJQsAKvcVHA",
+      "session_id": "a88269b7-9b94-4a5a-a804-21de3b2d26c2"
+    },
+    {
+      "last_seq": "140-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTuzJBQqxmxqYGBgnpmLTkgUAJrcU_A",
+      "session_id": "e1ebf251-f68b-4e98-b0f9-539f916ff34a"
+    },
+    {
+      "last_seq": "128-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTmzIBQqxmxqYGBgnpmLTkgUAJR8U8A",
+      "session_id": "972e1484-274b-474e-ad1b-1bd435dd57dc"
+    },
+    {
+      "last_seq": "125-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTqzNBQqxmxqYGBgnpmLTkgUAJLkU7Q",
+      "session_id": "2e5de421-1926-425e-b275-da3bd9812bb0"
+    },
+    {
+      "last_seq": "113-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTizMBQqxmxqYGBgnpmLTkgUAIyEU4Q",
+      "session_id": "0cb29e00-212d-48c7-85e8-3c435ad43659"
+    }
+  ],
+  "replicator": "pouchdb",
+  "version": 1,
+  "last_seq": "172-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTlyTCxRiNzUwMTBOTMWmJQsAKvcVHA"
+}
