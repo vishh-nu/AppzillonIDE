@@ -1,0 +1,26 @@
+{
+  "_id": "_local/lygUtJzd2lDyOD8R14smvg==",
+  "_rev": "0-50",
+  "session_id": "c2cbcea2-9e7b-49ef-b0f7-490213331af1",
+  "history": [
+    {
+      "last_seq": 67,
+      "session_id": "c2cbcea2-9e7b-49ef-b0f7-490213331af1"
+    },
+    {
+      "last_seq": 51,
+      "session_id": "dae16a6f-adee-4084-ba6c-9acd244a9584"
+    },
+    {
+      "last_seq": 43,
+      "session_id": "970b8c3e-43c4-49cf-bc6c-7bb7f2cea82d"
+    },
+    {
+      "last_seq": 39,
+      "session_id": "bbbca11b-5ca2-43b0-9e24-007c007ac5fe"
+    }
+  ],
+  "replicator": "pouchdb",
+  "version": 1,
+  "last_seq": 67
+}

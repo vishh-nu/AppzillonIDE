@@ -1,0 +1,30 @@
+{
+  "_id": "_local/T4Ukw5055fdza7YmONWg8w==",
+  "_rev": "0-50",
+  "session_id": "9aa9c4e6-22ad-4540-b25f-418c9334f3a9",
+  "history": [
+    {
+      "last_seq": "196-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTjySCxRiNzUwMTBOTMWmJQsALicVNA",
+      "session_id": "9aa9c4e6-22ad-4540-b25f-418c9334f3a9"
+    },
+    {
+      "last_seq": "193-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTjyYCxRiNzUwMTBOTMWmJQsALcEVMQ",
+      "session_id": "86397907-d77e-4a0b-8cab-916b96947df4"
+    },
+    {
+      "last_seq": "119-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTizPBQqxmxqYGBgnpmLTkgUAI-0U5w",
+      "session_id": "1068e456-a241-43f3-8e76-5438bd70b5ce"
+    },
+    {
+      "last_seq": "113-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTizMBQqxmxqYGBgnpmLTkgUAIyEU4Q",
+      "session_id": "0f136315-6998-41a2-ab6e-4219d73b347a"
+    },
+    {
+      "last_seq": "109-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTszNBQqxmxqYGBgnpmLTkgUAIpkU3Q",
+      "session_id": "430e1bf3-36bd-4a0c-80b2-95d267df8330"
+    }
+  ],
+  "replicator": "pouchdb",
+  "version": 1,
+  "last_seq": "196-g1AAAABPeJzLYWBgYMxgTmEQTM4vTc5ISXIwNDLXMwBCwxygFFMiQx4Lw38gyMpgTjySCxRiNzUwMTBOTMWmJQsALicVNA"
+}
